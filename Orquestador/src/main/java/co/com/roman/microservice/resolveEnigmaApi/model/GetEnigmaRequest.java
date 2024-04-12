@@ -102,4 +102,9 @@ public class GetEnigmaRequest   {
     }
     return o.toString().replace("\n", "\n    ");
   }
+
+public Object getEnigma() {
+	// TODO Auto-generated method stub
+	return null;
+}
 }
